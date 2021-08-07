@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yuliannn94
 - 👀 I’m interested in Learning how to use and take advantage of the programing concept. 
 - 🌱 I’m currently learning Java. 
-- 💞️ I’m looking to collaborate on everything I posibly can. but most important, I'm looking to be guided in this world. 
+- 💞️ I’m looking to collaborate on everything I posibly can. But most important, I'm looking to be guided in this world. 
 - 📫 How to reach me: @yuliannn94 on Instagram.
 
 <!---
